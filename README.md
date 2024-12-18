@@ -2,7 +2,7 @@
 
 - **Backend**: Spring Boot, Rest Api, JPA Data, Spring Boot Dev Tools, Lombok
 - **Veritabanı**: PostgreSQL
-- - **Frontend**: HTML5, CSS3, Bootstra (4.6 version)
+- **Frontend**: HTML5, CSS3, Bootstra (4.6 version)
  
 ### Proje içerisinden görseller:
 
